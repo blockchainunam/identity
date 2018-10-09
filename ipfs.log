@@ -1,0 +1,12 @@
+Initializing daemon...
+Successfully raised file descriptor limit to 2048.
+Swarm listening on /ip4/127.0.0.1/tcp/4001
+Swarm listening on /ip4/192.168.1.70/tcp/4001
+Swarm listening on /ip6/::1/tcp/4001
+Swarm listening on /p2p-circuit/ipfs/QmbJMMDXQ7KpayQWCsogWw4awZvfPKYTCqRovPsi3aYn24
+Swarm announcing /ip4/127.0.0.1/tcp/4001
+Swarm announcing /ip4/192.168.1.70/tcp/4001
+Swarm announcing /ip6/::1/tcp/4001
+API server listening on /ip4/127.0.0.1/tcp/5001
+Gateway (readonly) server listening on /ip4/0.0.0.0/tcp/9001
+Daemon is ready

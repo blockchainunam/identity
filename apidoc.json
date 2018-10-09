@@ -1,0 +1,7 @@
+{
+  "name": "Identity API",
+  "version": "0.1.0",
+  "description": "Identity API v1.0",
+  "title": "Identity management on the Blockchain",
+  "url" : "http://0.0.0.0:8080/"
+}
